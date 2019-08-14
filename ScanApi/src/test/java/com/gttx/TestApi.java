@@ -1,9 +1,11 @@
 package com.gttx;
 
+import org.junit.Test;
+
 /**
  * Created by setsunayang on 2019-08-14
  */
-public class Test {
+public class TestApi {
 
     @Test
     public void testAdd(){
