@@ -1,8 +1,7 @@
-package com.gttx.entity;
+package com.gttx.enums;
 
 /**
  * Created by setsunayang on 2019-08-14
  */
-public class Task {
-
+public class TaskMode {
 }
