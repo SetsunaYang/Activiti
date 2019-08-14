@@ -22,7 +22,7 @@ public class DbUtil {
             // 执行查询
             stmt = conn.createStatement();
             String sql;
-            sql = "SELECT * FROM ";
+            sql = "SELECT * FROM scan_property ";
             ResultSet rs = stmt.executeQuery(sql);
 
             // 展开结果集数据库
